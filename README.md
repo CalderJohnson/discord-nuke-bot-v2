@@ -1,4 +1,4 @@
-A new version of the discord nukebot, uses parallel threads to absolutely obliterate a server. 
+A new version of the discord nukebot, uses concurrent threads to absolutely obliterate a server. 
 
 Warning: Hits rate limits quickly, use on a fresh IP each time
 
